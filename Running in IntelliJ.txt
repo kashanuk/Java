@@ -1,0 +1,14 @@
+Springboot 
+https://www.youtube.com/watch?v=VuAMluL-8Ps&ab_channel=JavaGuides
+D:\Documents\Documents\MEGA\Red Deer Polytech\CPRO 2221\Codes\SpringBoot\springboot-first-app
+
+Annotations
+D:\Documents\Documents\MEGA\Red Deer Polytech\CPRO 2221\Codes\AnnotationsPractice\Annotations_practice
+
+Generics
+https://www.geeksforgeeks.org/generics-in-java/
+D:\Documents\Documents\MEGA\Red Deer Polytech\CPRO 2221\Codes\Generics\Generics
+
+
+Database
+D:\Documents\Documents\MEGA\Red Deer Polytech\CPRO 2221\Codes\MySQLMusic\MySQLMusic
